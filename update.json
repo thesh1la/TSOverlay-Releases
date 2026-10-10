@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.0.0/TSOverlay-Setup-1.0.0-win64.exe",
-  "sha256": "A085B40ED6E5ABE0FEA3E7596B87160FFA1C452966640F27617FBAA314B9ED04",
-  "notes": "Первый публичный выпуск TS Overlay.",
-  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.0.0"
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.0.1/TSOverlay-Setup-1.0.1-win64.exe",
+  "sha256": "52DA36E8A798FBE9FC6D115427B1D89618BAF0D33A0204E7B333276F3522CAE8",
+  "notes": "Хоткеи перехода в мониторинговые каналы теперь назначаются прямо в TS Overlay. Настройка горячих клавиш TeamSpeak больше не требуется.",
+  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.0.1"
 }
