@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.1.0/TSOverlay-Setup-1.1.0-win64.exe",
-  "sha256": "9C4CA093BCC177D8384473AA2EE798294EF039417539E91AC2A9FD6C5BC1E13D",
-  "notes": "Добавлена поддержка TeamSpeak 3.6.0 и новее. Установщик автоматически выбирает Plugin API 23 для TeamSpeak 3.5.6 или Plugin API 26 для TeamSpeak 3.6.0+.",
-  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.1.0"
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.2.0/TSOverlay-Setup-1.2.0-win64.exe",
+  "sha256": "26E566BD3AF03FA43A3530B39574F51620892AF4E6B73C502D4E70E08DC7F645",
+  "notes": "Крупное обновление: основной DirectX 11-оверлей с поддержкой Exclusive Fullscreen и захвата игры OBS, повторное подключение после перезапуска игры, ускоренная реакция на события TeamSpeak и переходы между каналами, новые настройки оформления и исправления запуска, закрытия и горячих клавиш.",
+  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.2.0"
 }
