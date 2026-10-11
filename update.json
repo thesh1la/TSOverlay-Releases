@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.2.0/TSOverlay-Setup-1.2.0-win64.exe",
-  "sha256": "26E566BD3AF03FA43A3530B39574F51620892AF4E6B73C502D4E70E08DC7F645",
-  "notes": "Крупное обновление: основной DirectX 11-оверлей с поддержкой Exclusive Fullscreen и захвата игры OBS, повторное подключение после перезапуска игры, ускоренная реакция на события TeamSpeak и переходы между каналами, новые настройки оформления и исправления запуска, закрытия и горячих клавиш.",
-  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.2.0"
+  "version": "1.2.1",
+  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.2.1/TSOverlay-Setup-1.2.1-win64.exe",
+  "sha256": "4E3CA5760C16A245C3E487325B980E002379EA3D1CDA801E4EF4FC339B5C0509",
+  "notes": "Исправлено восстановление графического состояния игры и обработка изменения размера окна и ошибок DirectX. Исправлены закрытие приложения, освобождение ресурсов и повторное подключение оверлея. Оптимизированы рендер, переиспользование текстуры и обновление списков. Исправлены значок мута микрофона, запуск вместе с TeamSpeak и потеря выбора/мерцание каналов. Улучшено отображение длинных имён и шёпота. Перед установкой полностью закройте игру, TS Overlay и TeamSpeak; настройки сохраняются, перезагрузка компьютера не нужна.",
+  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.2.1"
 }
