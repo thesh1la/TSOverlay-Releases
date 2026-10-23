@@ -4,11 +4,11 @@
 
 ## Скачать
 
-Актуальная версия: **1.3.3**.
+Актуальная версия: **1.3.4**.
 
 **[Скачать TS Overlay](https://github.com/thesh1la/TSOverlay-Releases/releases/latest)**
 
-[Что нового в 1.3.3](https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.3.3): скриншоты с выделением области, загрузкой на Imgur, копированием ссылки и уведомлениями внутри оверлея.
+[Что нового в 1.3.4](https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.3.4): Хотфикс биндов.
 
 ## Требования
 
@@ -19,7 +19,7 @@
 ## Установка
 
 1. Полностью закройте игру, TS Overlay и TeamSpeak, включая значки в трее.
-2. Скачайте и запустите `TSOverlay-Setup-1.3.3-win64.exe`.
+2. Скачайте и запустите `TSOverlay-Setup-1.3.4-win64.exe`.
 3. Установщик сам определит версию TeamSpeak и выберет совместимый плагин. Если TeamSpeak не найден, выберите версию вручную.
 4. Запустите TeamSpeak и убедитесь, что дополнение **TS Overlay** включено.
 5. Запустите TS Overlay и во вкладке **Система** выберите игру.

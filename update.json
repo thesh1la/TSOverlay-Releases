@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.3.3/TSOverlay-Setup-1.3.3-win64.exe",
-  "sha256": "FA2B4E24C296F6647805F647682095188BB24AA2B0E7464F6E6090861D73235D",
-  "notes": "Добавлены скриншоты с выделением области, загрузкой на Imgur, копированием прямой ссылки и историей. По умолчанию Ctrl + Shift + S, сочетание можно изменить. Уведомления о загрузке появляются в оверлее, доступны перемещение и настройка цветов. Исправлены нечитаемые подсказки в боковом меню и обновление количества участников после переподключения к серверу TeamSpeak. Настройки и заметки сохраняются. Перед установкой полностью закройте игру, TS Overlay и TeamSpeak. Обратная связь в Discord: sh1la.",
-  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.3.3"
+  "version": "1.3.4",
+  "downloadUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/download/v1.3.4/TSOverlay-Setup-1.3.4-win64.exe",
+  "sha256": "EF78E7BCC4D951E20F01DA4611B4CC891610FF3389F10302CA7C4FA95E85672B",
+  "notes": "Хотфикс биндов",
+  "releaseUrl": "https://github.com/thesh1la/TSOverlay-Releases/releases/tag/v1.3.4"
 }
